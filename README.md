@@ -1,10 +1,12 @@
 # Campingi Employee Reviews
 
-This repository contains an analysis of Campingi employee reviews from different experience levels and backgrounds. The main process for this analysis includes cleaning and wrangling data using the Pandas library in Python. The processed data is then used to create a report with the Power BI tool for business intelligence.
+This capstone project is dedicated to leveraging machine learning techniques to explore employee satisfaction at Capgemini. The primary goal is to gain valuable insights into the various factors influencing employee satisfaction within this organization. Through this analysis, the aim is to predict employee satisfaction ratings using a range of machine learning techniques, including sentiment analysis and classification algorithms.
+
+The potential outcomes of this analysis hold considerable promise for Capgemini and similar organizations. By utilizing the predictive power of machine learning, this project could significantly enhance employee morale and overall satisfaction. Moreover, it could provide the company with the necessary knowledge to make data-driven decisions and implement targeted strategies to optimize the working environment and improve the overall employee experience.
 
 ## Dataset
 
-The dataset used in this analysis is available on Kaggle.
+The dataset used in this analysis is available on Kaggle. You can access it [here](https://www.kaggle.com/datasets/manishkr1754/capgemini-employee-reviews-dataset).
 
 ### Data Elements
 
